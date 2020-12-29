@@ -9,7 +9,7 @@ header:
   template: header
   title: Stackbit Fresh
   tagline: Header Tagline
-  profile_img: images/avatar.png
+  profile_img: /images/Kieran 2.png
   background: dark
   has_nav: true
   nav_links:
